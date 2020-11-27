@@ -33,7 +33,9 @@
 Проработка текстовых блоков сайта - 4 часа. 
 Помощь в оформлении сайта(подбор шрифтов, предложения по наполнению) - 1.5 часа. 
 Блок преподаватели - n часов.
-Внесение рациональных предложений на тему менджмента - unsigned long int is too short to express the number of hours.
+Внесение рациональных предложений на тему менджмента, а так же на тему развития лендинга - unsigned long int is too short to express the number of hours.
+
+https://mospolytechonline-my.sharepoint.com/:w:/g/personal/s_p_bunceva_stud_mospolytech_ru/ESE93U93hghNgzTXPlZsDdEB1NKA1B5UlZeLzDcvStow1A?e=Fllcj6
 
 
 ### Матвеева А.Р.
